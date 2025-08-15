@@ -30,7 +30,7 @@ Task 8 :Identify and Remove Suspicious Browser Extensions
 - No-log policy
 
 > **Screenshots:**  
-> - `vpn_screenshot.png` (Connected VPN status with changed IP)
+> - screenshot(64,65,66,67).png` (Connected VPN status with changed IP)
 
 ### VPN Benefits & Limitations
 
